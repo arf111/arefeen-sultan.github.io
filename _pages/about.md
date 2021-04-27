@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am K M Arefeen Sultan. I have completed my undergraduate in Computer Science and Engineering from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh. I am now a Full time Lecturer at Department of Computer Science and Engineering, Northern University Bangladesh. My research interests are machine learning applications used in software engineering, computer vision, and image processing.
+I am K M Arefeen Sultan. I have completed my undergraduate in Computer Science and Engineering from [Ahsanullah University of Science and Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh. I am now a Full time Lecturer at Department of Computer Science and Engineering, [Northern University Bangladesh](https://nub.ac.bd/). My research interests include machine learning applications used in software engineering, and other areas such as computer vision, and image processing.
 
 # News
 ------
