@@ -23,4 +23,3 @@ This Udacity Nanodegree program included a comprehensive understanding and imple
 * Built a Face Generating Program based on Deep Convolutional GAN (generative adversarial network).The part of the nanodegree covered on the building foundation of GAN, and CycleGAN.
 * Bult a sentiment analysis model, deployed the model on Amazon AWS SageMaker, and created a gateway to access it from a website. The part of this nanodegree program covered topics on Cloud Deployment.
 * Certification Link: [https://graduation.udacity.com/confirm/FGGM4QG2](https://graduation.udacity.com/confirm/FGGM4QG2)
-_____________________________

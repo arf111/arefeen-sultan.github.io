@@ -37,4 +37,3 @@ author_profile: true
     * Implemented popular destinations to visit and the hotels situated on those destinations.
     * User can login and book a room on the hotel if the hotel has available room.
     * Github: [https://github.com/arf111/Journey_Guider.git](https://github.com/arf111/Journey_Guider.git)
-_____________________________
