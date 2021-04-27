@@ -21,4 +21,4 @@ Department of Computer Science and Engineering <br/>
 Ahsanullah University of Science and Technology<br />
 January 2020 - present<br/>
 
-[CV](https://arefeen-sultan.github.io/files/CV_K_M_Arefeen_Sultan.pdf) [<ins>*Last Updated on April 4, 2021*</ins>]
+[CV](https://arf111.github.io/files/CV_K_M_Arefeen_Sultan.pdf) [<ins>*Last Updated on April 4, 2021*</ins>]

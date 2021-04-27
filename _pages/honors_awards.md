@@ -16,7 +16,7 @@ redirect_from:
 * Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
 * **CGPA:  3.685/4.0**
 * **7<sup>th</sup>** out of 152 students
-* **Thesis title:** ["toon2real: Translating Cartoon Images to Realistic Images"](https://arefeen-sultan.github.io/files/Thesis_Book__Undergraduate.pdf) 
+* **Thesis title:** ["toon2real: Translating Cartoon Images to Realistic Images"](https://arf111.github.io/files/Thesis_Book__Undergraduate.pdf) 
 * **Supervisor:** [Mohammad Imrul Jubair](https://imruljubair.github.io/), Assistant Professor, Department of CSE, AUST
 
 <br /> 
