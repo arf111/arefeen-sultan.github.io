@@ -23,7 +23,7 @@ redirect_from:
 
 # Honors and Awards
 
-* 1<sup>st</sup> runner up in Poster Presentation at National Competition, MindSparks ’19.
+* **1<sup>st</sup>** runner up in Poster Presentation at National Competition, MindSparks ’19.
 * Recipient of the Grant of General Scholarship on 8th Grade Dhaka Board Scholarship Exam
 from the Education Board of Bangladesh.
 
