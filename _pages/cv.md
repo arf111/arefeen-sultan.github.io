@@ -25,4 +25,4 @@ January 2020 - June 2020<br/>
 Infolytx<br />
 July 2021 - present<br/>
 
-[CV](https://arf111.github.io/files/CV_K_M_Arefeen_Sultan.pdf) [<ins>*Last Updated on October 28, 2021*</ins>]
+[CV](https://arf111.github.io/files/CV_K_M_Arefeen_Sultan.pdf) [<ins>*Last Updated on November 28, 2021*</ins>]
