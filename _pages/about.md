@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am K M Arefeen Sultan. I have completed my undergraduate in Computer Science and Engineering from [Ahsanullah University of Science and Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh. I have been a Full time Lecturer at Department of Computer Science and Engineering, [Northern University Bangladesh](https://nub.ac.bd/) for about 1.5 years. Now I'm working as a Software Engineer in Machine Learning at [Infolytx](https://www.infolytx.com/). My research interests include machine learning applications used in software engineering, and other areas such as computer vision, and image processing.
+I am K M Arefeen Sultan. I have completed my undergraduate in Computer Science and Engineering from [Ahsanullah University of Science and Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh. I have been a Full time Lecturer at Department of Computer Science and Engineering, [Northern University Bangladesh](https://nub.ac.bd/) for about 1.5 years. Now I'm working as a Software Engineer in Machine Learning at [Infolytx](https://www.infolytx.com/). My research interests include machine learning and it's application in real world.
 
 # News
 ------
