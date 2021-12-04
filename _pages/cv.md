@@ -16,13 +16,13 @@ May 2015 - July 2019
 
 ## Employment 
 -------------
+<b>Software Engineer in Machine Learning</b><br />
+Infolytx<br />
+July 2021 - present<br/>
+
 <b>Full-time Lecturer</b><br />
 Department of Computer Science and Engineering <br/>
 Northern University Bangladesh<br />
 January 2020 - June 2020<br/>
 
-<b>Software Engineer in Machine Learning</b><br />
-Infolytx<br />
-July 2021 - present<br/>
-
-[CV](https://arf111.github.io/files/CV_K_M_Arefeen_Sultan.pdf) [<ins>*Last Updated on November 28, 2021*</ins>]
+[CV](https://arf111.github.io/files/CV_K_M_Arefeen_Sultan.pdf) [<ins>*Last Updated on December 4, 2021*</ins>]

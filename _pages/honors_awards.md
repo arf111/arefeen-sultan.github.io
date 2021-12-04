@@ -14,7 +14,7 @@ redirect_from:
 
 
 * Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
-* **CGPA:  3.685/4.0**
+* **CGPA: 3.685/4.00, Major CGPA: 3.759/4.00**
 * **7<sup>th</sup>** out of 152 students
 * **Thesis title:** ["toon2real: Translating Cartoon Images to Realistic Images"](https://arf111.github.io/files/Thesis_Book__Undergraduate.pdf) 
 * **Supervisor:** [Mohammad Imrul Jubair](https://imruljubair.github.io/), Assistant Professor, Department of CSE, AUST
