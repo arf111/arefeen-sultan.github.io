@@ -15,6 +15,6 @@ author_profile: true
 * Developed content based recommendation algorithm using **TF-IDF** and **Cosine Similarity** score.
 
 ## Full-time Lecturer @ [Northern University Bangladesh](https://nub.ac.bd)
-*Jan 2020 - July 2021*
+*Jan 2020 - June 2021*
 * Conducted competitive programming classes on data structures, algorithms and graph theory.
 * Undertaken courses on "Computer Graphics", "Software Engineering", "Data Communication", "Object Oriented Programming", and "Numerical Method".

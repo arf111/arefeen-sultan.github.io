@@ -23,6 +23,6 @@ July 2021 - present<br/>
 <b>Full-time Lecturer</b><br />
 Department of Computer Science and Engineering <br/>
 Northern University Bangladesh<br />
-January 2020 - June 2020<br/>
+January 2020 - June 2021<br/>
 
 [CV](https://arf111.github.io/files/CV_K_M_Arefeen_Sultan.pdf) [<ins>*Last Updated on December 4, 2021*</ins>]
