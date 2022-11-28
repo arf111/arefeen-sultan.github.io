@@ -8,7 +8,7 @@ author_profile: true
 # Experience
 
 ## Software Engineer in Machine Learning @ [Infolytx](https://www.infolytx.com)
-*July 2021 - Present*
+*July 2021 - July 2022*
 * Working on building, monitoring and deploying machine learning products.
 * Giving key insights in products using statistical and analytical skills.
 * Developed item recommendation algorithm for a restaurant using **Retrieval** and **Ranking** models.

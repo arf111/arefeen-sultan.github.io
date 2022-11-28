@@ -10,6 +10,11 @@ redirect_from:
 
 # Education
 
+### Doctor of Philosophy, Computer Science - Ongoing
+
+* University of Utah, UT, USA
+* Research Area: Machine Learning in Image Processing.
+
 ### B.Sc. in Computer Science and Engineering
 
 
