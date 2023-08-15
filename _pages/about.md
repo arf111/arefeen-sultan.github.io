@@ -13,6 +13,7 @@ I am K M Arefeen Sultan. I have completed my undergraduate in Computer Science a
 # News
 ------
 
+* <span style="color:Blue"> [August, 2023] </span> - One paper got accepted at [STACOM 2023](https://stacom.github.io/stacom2023/) workshop.
 * <span style="color:Blue"> [November, 2020] </span> - One paper got accepted at [ICTAI 2020](https://ictai2020.org/) conference.
 * <span style="color:Blue"> [January, 2019] </span> - 1<sup>st</sup> runner up in Poster Presentation at National Competition, [MindSparks](https://www.facebook.com/events/Networking/mindsparks-19-an-inter-university-college-tech-competition/1229441647203701/).
 * <span style="color:Blue"> [December, 2018] </span> One paper got accepted as a poster paper at [ICIET 2018](https://cse.du.ac.bd/iciet/index.html) conference.
