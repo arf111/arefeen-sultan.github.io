@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2023
 -----------
-* **K M Arefeen Sultan**, Benjamin Orkild, Alan Morris, Eugene Kholmovski, Erik Bieging, Eugene Kwan, Ravi Ranjan, Ed DiBella, Shireen Elhabian, ["Two-Stage Deep Learning Framework for Quality Assessment of Left Atrial Late Gadolinium Enhanced MRI Images",](https://arxiv.org/abs/2310.08805v1) <i>2023 Statistical Atlases and Computational Modeling of the Heart, Vancouver, Canada [(STACOM)](https://stacom.github.io/stacom2023/)</i>. [<span style ="color:#47a2e1">[**Presentation Video**]</span>](https://youtu.be/Xd93KPM_wfQ?si=zbSi-3jC-1DhZdGj)
+* **K M Arefeen Sultan**, Benjamin Orkild, Alan Morris, Eugene Kholmovski, Erik Bieging, Eugene Kwan, Ravi Ranjan, Ed DiBella, Shireen Elhabian, ["Two-Stage Deep Learning Framework for Quality Assessment of Left Atrial Late Gadolinium Enhanced MRI Images",](https://link.springer.com/chapter/10.1007/978-3-031-52448-6_22) <i>2023 Statistical Atlases and Computational Modeling of the Heart, Vancouver, Canada [(STACOM)](https://stacom.github.io/stacom2023/)</i>. [<span style ="color:#47a2e1">[**Presentation Video**]</span>](https://youtu.be/Xd93KPM_wfQ?si=zbSi-3jC-1DhZdGj)
 
 ## 2020
 -----------
