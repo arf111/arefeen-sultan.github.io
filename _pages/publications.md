@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2024
+-----------
+* **K M Arefeen Sultan**, Md Hasibul Husain Hisham, Benjamin Orkild, Alan Morris, Eugene Kholmovski, Erik Bieging, Eugene Kwan, Ravi Ranjan, Ed DiBella, Shireen Elhabian, ["HAMIL-QA: Hierarchical Approach to Multiple Instance Learning for Atrial LGE MRI Quality Assessment",](https://arxiv.org/abs/2407.07254) <i>2024 Medical Image Computing and Computer Assisted Intervention, Marrakesh, Morocco [(STACOM)](https://conferences.miccai.org/2024/en/)</i>.
 
 ## 2023
 -----------
