@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## 2024
 -----------
-* **K M Arefeen Sultan**, Md Hasibul Husain Hisham, Benjamin Orkild, Alan Morris, Eugene Kholmovski, Erik Bieging, Eugene Kwan, Ravi Ranjan, Ed DiBella, Shireen Elhabian, ["HAMIL-QA: Hierarchical Approach to Multiple Instance Learning for Atrial LGE MRI Quality Assessment",](https://arxiv.org/abs/2407.07254) <i>Medical Image Computing and Computer Assisted Intervention, Marrakesh, Morocco [(MICCAI2024)](https://conferences.miccai.org/2024/en/)</i>.
+* **K M Arefeen Sultan**, Md Hasibul Husain Hisham, Benjamin Orkild, Alan Morris, Eugene Kholmovski, Erik Bieging, Eugene Kwan, Ravi Ranjan, Ed DiBella, Shireen Elhabian, ["HAMIL-QA: Hierarchical Approach to Multiple Instance Learning for Atrial LGE MRI Quality Assessment",](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_26) <i>Medical Image Computing and Computer Assisted Intervention, Marrakesh, Morocco [(MICCAI2024)](https://conferences.miccai.org/2024/en/)</i>.
 
 ## 2023
 -----------
